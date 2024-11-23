@@ -1,5 +1,5 @@
 # 👋 Hi there 
-👾 Dev/Video Editor/Gamer/<br>🚀 I'm currently working on Full Stack project [soon..]/<br>💪 Building Full Stack skills/<br>🎯 Ready to fill Front End Developer role<br>
+👾 Dev/Video Editor/Gamer/<br>🚀 I'm currently working on Full Stack project [soon..]/<br>💪 Building Full Stack skills/<br>🎯 Ready to fill Front End Developer role
 
 
 ## 🌐 Socials:
